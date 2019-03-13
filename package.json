@@ -16,5 +16,8 @@
     "kaufland"
   ],
   "author": "Esri Deutschland",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-jq": "^1.5.0"
+  }
 }
