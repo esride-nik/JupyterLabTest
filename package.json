@@ -1,0 +1,20 @@
+{
+  "name": "jupykaufland",
+  "version": "1.0.0",
+  "description": "Jupyter Labs for Kaufland",
+  "main": "index.js",
+  "scripts": {
+    "test": "jupyter labs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://schwarzit.visualstudio.com/kaufland.arcgis-enterprise/_git/Localizr"
+  },
+  "keywords": [
+    "jupyter",
+    "labs",
+    "kaufland"
+  ],
+  "author": "Esri Deutschland",
+  "license": "ISC"
+}
